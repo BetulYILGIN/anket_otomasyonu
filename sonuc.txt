@@ -1,0 +1,16 @@
+
+
+ 3 adet besiktas icin oy kullanildi
+ 1 adet galatasaray icin oy kullanildi
+ 0 adet fenerbahce icin oy kullanidi 
+ 1 adet trabzonspor icin oy kullanildi
+
+ 1 adet besiktas icin oy kullanildi
+ 4 adet galatasaray icin oy kullanildi
+ 1 adet fenerbahce icin oy kullanidi 
+ 0 adet trabzonspor icin oy kullanildi
+
+ 2 adet besiktas icin oy kullanildi
+ 3 adet galatasaray icin oy kullanildi
+ 0 adet fenerbahce icin oy kullanidi 
+ 0 adet trabzonspor icin oy kullanildi
